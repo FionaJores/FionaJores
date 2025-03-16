@@ -9,7 +9,7 @@
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,django,html,css,tailwind,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,tailwind,git,github,express,c,c++" />
 </p>
 
 ---
